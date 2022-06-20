@@ -15,7 +15,7 @@ I consider myself As a fully dedicated, dynamic, punctual, efficient, quick resp
 
 Contact Me at: moazzemhossainnahid@gmail.com
 
-Skills: HTML / CSS / Bootstrap / JavaScript / React / WordPress
+Skills: HTML / CSS / Bootstrap / Tailwind / JavaScript / React / WordPress
 
 - 🔭 I’m currently working on KHSC Friends 
 - 🌱 I’m currently learning Redux 
