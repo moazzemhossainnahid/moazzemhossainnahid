@@ -1,6 +1,6 @@
 
 # Hi there 👋, I am Nahid
-### Front-End Web Developer
+### Front-End Web Developer💻
 ![Front-End Web Developer](https://media-exp2.licdn.com/dms/image/C4D16AQHJynZA2c68UQ/profile-displaybackgroundimage-shrink_200_800/0/1655716976108?e=1661385600&v=beta&t=TvmpnDUKUqMW9h_v3EU_HAbcw_R9CwjBeW9dtR8mfzE)
 
 In the early stage, I started my career as a Marketing Officer and then rapidly moved into Web Design & Development. 
