@@ -15,7 +15,7 @@ I consider myself As a fully dedicated, dynamic, punctual, efficient, quick resp
 
 Contact Me at: moazzemhossainnahid@gmail.com
 
-Skills: HTML / CSS / Bootstrap / Tailwind / JavaScript / React / WordPress
+Skills: HTML / CSS / Bootstrap / Tailwind / JavaScript / React / Node / MongoDB / Express / Firebase / WordPress
 
 - 🔭 I’m currently working on [Online Bank BD](https://online-money-bd.netlify.app/)
 - 🌱 I’m currently learning Redux 
