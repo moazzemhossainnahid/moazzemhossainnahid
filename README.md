@@ -87,9 +87,9 @@ Skills: HTML / CSS / Bootstrap / Tailwind / JavaScript / React / Node / MongoDB 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/syeda tamanna sheme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syeda tamanna sheme" height="30" width="44" /></a>
-<a href="https://fb.com/tamannasheme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tamannasheme" height="30" width="40" /></a>
-<a href="https://www.behance.net/syeda tamanna sheme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="syeda tamanna sheme" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/moazzemhossainnahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syeda tamanna sheme" height="30" width="44" /></a>
+<a href="https://facebook.com/moazzemhossainnahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tamannasheme" height="30" width="40" /></a>
+<a href="https://www.behance.net/moazzemhossainnahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="syeda tamanna sheme" height="30" width="40" /></a>
 </p>
 <br>
 <br />
