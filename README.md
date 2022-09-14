@@ -16,25 +16,29 @@
 
 
 
+In the early stage, I started my career as a Marketing Officer and then rapidly moved into Web Design & Development.
 
- I am an undergraduate student at East-West University's Department of Computer Science and Engineering, as well as an undergraduate teaching assistant. As a technology geek, I am dedicated to learning new technologies and putting them to use to tackle difficult challenges. I'm also a Front End Web Developer who is obsessed with creating error-free websites. I'm passionate about learning and sharing what I've learned with as many people as possible. I enjoy solving challenges in the real world. I am strategic and goal-oriented, and I constantly work for a common goal. I take pride in producing high-quality work and keeping effective communication.
+I Have Completed Web Design Course from Robi 10 Minute School.
+Currently Completed Web Development Course From Programming Hero as Front-End Web Developer. And won a reward (SCIC selection) from the Programming Hero for my Better Performance.
+
+I enjoy when completed a project and I work hard to reach the destination. I love team leading, project management, problem-solving, and of course strategic decision-making! I'm a big fan of taking ownership and exploring technical and business challenges to achieve the best output.
+I consider myself As a fully dedicated, dynamic, punctual, efficient, quick responder, and also very convivial.
+
+Contact Me at: moazzemhossainnahid@gmail.com
 
 
-    Contact Me at: moazzemhossainnahid@gmail.com
 
+## 👓 Here's some fun facts about me:
 
-
-    ## 👓 Here's some fun facts about me:
-
-    - ✨ Front-end developer with 1.5 years + front end experience.
-    - 🔭 I’m currently working on [Online Bank BD](https://online-money-bd.netlify.app/)
-    - ⚡️ I am capable to solve working problems.
-    - 💫 Passionate about learning & development to reach the target.
-    - 🔥 Eager to tackle more complex problems and continue to find ways to maximize user efficiency.
-    - 🚀 My next mission is how to become a Mern-stack Developer.
-    - 💥 I would love to build some Giant Website which will shine myself.
-    - 📫  How to reach me: https://developer-nahid.web.app.
-    - ⚡ Fun 
+- ✨ Front-end developer with 1.5 years + front end experience.
+- 🔭 I’m currently working on [Online Bank BD](https://online-money-bd.netlify.app/)
+- ⚡️ I am capable to solve working problems.
+- 💫 Passionate about learning & development to reach the target.
+- 🔥 Eager to tackle more complex problems and continue to find ways to maximize user efficiency.
+- 🚀 My next mission is how to become a Mern-stack Developer.
+- 💥 I would love to build some Giant Website which will shine myself.
+- 📫  How to reach me: https://developer-nahid.web.app.
+- ⚡ Fun 
 
 #### :muscle: Things I am challenging myself with:
 
