@@ -81,6 +81,7 @@ Contact Me at: moazzemhossainnahid@gmail.com
  <a target="_blank" href="https://instagram.com/moazzemhossainnahid"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="MD. NAHID" height="30" width="40" /></a>
  <a target="_blank" href="https://github.com/moazzemhossainnahid"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="MD. NAHID" height="30" width="40" /></a>
  <a target="_blank" href="https://developer-nahid.web.app"><img align="center" src="https://cdn-icons-png.flaticon.com/512/44/44386.png" alt="MD. NAHID" height="30" width="30" /></a>
+  <a target="_blank" href="https://leetcode.com/moazzemhossainnahid/"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3628297-3031905.png" alt="MD. NAHID" height="30" width="30" /></a>
 </p>
 
 <br>
