@@ -1,5 +1,10 @@
 <img src="https://i.ibb.co/m850B26/1655716976108.jpg" alt="" /> </a > <p align="center"> 
 
+ <p align="left">
+<img src="https://komarev.com/ghpvc/?username=itsproali&label=Profile%20views&color=0e75b6&style=flat" alt="itsproali" /> 
+<img src="https://img.shields.io/github/followers/itsproali" alt="itsproali" /> 
+</p><br>
+ 
 <h1 align="center">Hi There<a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="40px" ></a> , I'm MD. NAHID </h1>
 
 <h3 align="center"> Software Engineer || Web Developer</h3>
