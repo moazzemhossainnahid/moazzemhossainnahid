@@ -74,13 +74,13 @@ Contact Me at: moazzemhossainnahid@gmail.com
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-<a target="_blank" href="https://linkedin.com/in/moazzemhossainnahid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="MD. NAHID" height="30" width="44" /></a>
-<a target="_blank" href="https://facebook.com/moazzemhossainnahid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="MD. NAHID" height="30" width="40" /></a>
-<a target="_blank" href="https://behance.net/moazzemnahid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="MD. NAHID" height="30" width="40" /></a>
- <a target="_blank" href="https://stackoverflow.com/users/13824423/moazzem-nahid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="MD. NAHID" height="30" width="40" /></a>
- <a target="_blank" href="https://instagram.com/moazzemhossainnahid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="MD. NAHID" height="30" width="40" /></a>
- <a target="_blank" href="https://github.com/moazzemhossainnahid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="MD. NAHID" height="30" width="40" /></a>
- <a target="_blank" href="https://developer-nahid.web.app" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/44/44386.png" alt="MD. NAHID" height="30" width="30" /></a>
+<a target="_blank" href="https://linkedin.com/in/moazzemhossainnahid"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="MD. NAHID" height="30" width="44" /></a>
+<a target="_blank" href="https://facebook.com/moazzemhossainnahid"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="MD. NAHID" height="30" width="40" /></a>
+<a target="_blank" href="https://behance.net/moazzemnahid"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="MD. NAHID" height="30" width="40" /></a>
+ <a target="_blank" href="https://stackoverflow.com/users/13824423/moazzem-nahid"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="MD. NAHID" height="30" width="40" /></a>
+ <a target="_blank" href="https://instagram.com/moazzemhossainnahid"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="MD. NAHID" height="30" width="40" /></a>
+ <a target="_blank" href="https://github.com/moazzemhossainnahid"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="MD. NAHID" height="30" width="40" /></a>
+ <a target="_blank" href="https://developer-nahid.web.app"><img align="center" src="https://cdn-icons-png.flaticon.com/512/44/44386.png" alt="MD. NAHID" height="30" width="30" /></a>
 </p>
 
 <br>
