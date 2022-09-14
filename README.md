@@ -30,7 +30,7 @@ Contact Me at: moazzemhossainnahid@gmail.com
 
 ## 👓 Here's some fun facts about me:
 
-- ✨ Front-end developer with 1.5 years + front end experience.
+- ✨ Front-End Developer With 1.5 years + Front End User Interfaces.
 - 🔭 I’m currently working on [Online Bank BD](https://online-money-bd.netlify.app/)
 - ⚡️ I am capable to solve working problems.
 - 💫 Passionate about learning & development to reach the target.
@@ -38,7 +38,7 @@ Contact Me at: moazzemhossainnahid@gmail.com
 - 🚀 My next mission is how to become a Mern-stack Developer.
 - 💥 I would love to build some Giant Website which will shine myself.
 - 📫  How to reach me: https://developer-nahid.web.app.
-- ⚡ Fun 
+- ⚡ Fun fact **I Think i'm funny too :)**
 
 #### :muscle: Things I am challenging myself with:
 
