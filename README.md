@@ -57,13 +57,14 @@ Contact Me at: moazzemhossainnahid@gmail.com
 </p>
 <br/>
 
-### Other Languages I know
+<!-- ### Other Languages I know -->
 
-<img src="https://img.shields.io/badge/-go-lang?style=flat&logo=go&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff" height="25"/> <img src="https://img.shields.io/badge/-Php-black?style=flat&logo=php&logoColor=white" height="25"/>
+<!-- <img src="https://img.shields.io/badge/-go-lang?style=flat&logo=go&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff" height="25"/> <img src="https://img.shields.io/badge/-Php-black?style=flat&logo=php&logoColor=white" height="25"/> -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moazzemhossainnahid)](https://github.com/anuraghazra/github-readme-stats) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=moazzemhossainnahid)
 
 ![GitHub metrics](https://metrics.lecoq.io/moazzemhossainnahid) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=moazzemhossainnahid&show_icons=true&count_private=true)
+
 --- 
 
 
