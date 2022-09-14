@@ -1,63 +1,33 @@
-<img src="https://i.ibb.co/m850B26/1655716976108.jpg" alt="" /> </a > <p align="center">
+<img src="https://i.ibb.co/m850B26/1655716976108.jpg" alt="" /> </a > <p align="center"> 
 
-    <p align="left">
-        <img src="https://komarev.com/ghpvc/?username=itsproali&label=Profile%20views&color=0e75b6&style=flat" alt="itsproali" />
-        <img src="https://img.shields.io/github/followers/itsproali" alt="itsproali" />
-    </p><br></br>
+<h1 align="center">Hi There<a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="40px" ></a> , I'm MD. NAHID </h1>
 
-    <h1 align="center">Hi There<a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="40px" ></a> , I'm MD. NAHID </h1>
-
-    <h3 align="center"> Software Engineer || Web Developer</h3>
-    <br />
-    <br />
-
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&vCenter=true&height=60&lines=A+Front+end+Developer;A+React+JS+Developer;A+Web+Developer)](https://git.io/typing-svg)
+<h3 align="center"> Software Engineer || Web Developer</h3>
+<br />
+<br />
 
 
 
-    In the early stage, I started my career as a Marketing Officer and then rapidly moved into Web Design & Development.
-
-    I Have Completed Web Design Course from Robi 10 Minute School.
-    Currently Completed Web Development Course From Programming Hero as Front-End Web Developer. And won a reward (SCIC selection) from the Programming Hero for my Better Performance.
-
-    I enjoy when completed a project and I work hard to reach the destination. I love team leading, project management, problem-solving, and of course strategic decision-making! I'm a big fan of taking ownership and exploring technical and business challenges to achieve the best output.
-
-    I consider myself As a fully dedicated, dynamic, punctual, efficient, quick responder, and also very convivial.
+ I am an undergraduate student at East-West University's Department of Computer Science and Engineering, as well as an undergraduate teaching assistant. As a technology geek, I am dedicated to learning new technologies and putting them to use to tackle difficult challenges. I'm also a Front End Web Developer who is obsessed with creating error-free websites. I'm passionate about learning and sharing what I've learned with as many people as possible. I enjoy solving challenges in the real world. I am strategic and goal-oriented, and I constantly work for a common goal. I take pride in producing high-quality work and keeping effective communication.
 
 
-    Contact Me at: moazzemhossainnahid@gmail.com
+🌱 I’m currently learning MERN Stack And DevOps
 
+💬 Ask me about **Web Solutions**
 
+📫 How to reach me: moazzemhossainnahid@gmail.com
 
-    ## 👓 Here's some fun facts about me:
+⚡ Fun fact **I Think i'm funny too :)**
+<br/><br/>
 
-    - ✨ Front-end developer with 1.5 years + front end experience.
-    - 🔭 I’m currently working on [Online Bank BD](https://online-money-bd.netlify.app/)
-    - ⚡️ I am capable to solve working problems.
-    - 💫 Passionate about learning & development to reach the target.
-    - 🔥 Eager to tackle more complex problems and continue to find ways to maximize user efficiency.
-    - 🚀 My next mission is how to become a Mern-stack Developer.
-    - 💥 I would love to build some Giant Website which will shine myself.
-    - 📫  How to reach me: https://developer-nahid.web.app.
-    - ⚡ Fun fact **I Think i'm funny too :)**
-    <br><br>
+#### :muscle: Things I am challenging myself with:
 
+- Waking up earlier to make good use of the day
+- Coding at least 4 hours a day
+- Exercising 3 days a week
+- Improving my CV with some education apart from university
 
-        #### :muscle: Things I am challenging myself with:
-
-        - Waking up earlier to make good use of the day
-        - Coding at least 6 hours a day
-        - Exercising 5 days a week
-        - Improving my CV with some Education apart from University
-
-        <br />
-
-        ## 🔥 Streak Stats
-
-        <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
-
-
-        <br />
+<br />
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>&nbsp;Technologies that I know</h2>
 
@@ -67,30 +37,19 @@
 </p>
 <br/>
 
+### Other Languages I know
 
-            [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moazzemhossainnahid)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://img.shields.io/badge/-go-lang?style=flat&logo=go&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff" height="25"/> <img src="https://img.shields.io/badge/-Php-black?style=flat&logo=php&logoColor=white" height="25"/>
 
-            ![GitHub stats](https://github-readme-stats.vercel.app/api?username=moazzemhossainnahid&show_icons=true&count_private=true)
+---
 
-            ![GitHub metrics](https://metrics.lecoq.io/moazzemhossainnahid)
+<br/> <br/>
 
-            ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=moazzemhossainnahid)
-            {/* ### Other Languages I know */}
-
-            {/* <img src="https://img.shields.io/badge/-go-lang?style=flat&logo=go&logoColor=white" height="25" /> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff" height="25" /> <img src="https://img.shields.io/badge/-Php-black?style=flat&logo=php&logoColor=white" height="25" /> */}
-
-            ---
-
-            <br /> <br />
-
-            <h3 align="center">Connect with me:</h3>
-            <p align="center">
-                <a href="https://linkedin.com/in/moazzemhossainnahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syeda tamanna sheme" height="30" width="44" /></a>
-                <a href="https://facebook.com/moazzemhossainnahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tamannasheme" height="30" width="40" /></a>
-                <a href="https://www.behance.net/moazzemhossainnahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="syeda tamanna sheme" height="30" width="40" /></a>
-            </p>
-            <br>
-                <br />
-
-
-
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/moazzemhossainnahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syeda tamanna sheme" height="30" width="44" /></a>
+<a href="https://facebook.com/moazzemhossainnahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tamannasheme" height="30" width="40" /></a>
+<a href="https://www.behance.net/moazzemhossainnahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="syeda tamanna sheme" height="30" width="40" /></a>
+</p>
+<br>
+<br />
