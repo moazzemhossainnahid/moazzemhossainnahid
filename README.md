@@ -63,13 +63,10 @@ Contact Me at: moazzemhossainnahid@gmail.com
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moazzemhossainnahid)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moazzemhossainnahid)](https://github.com/anuraghazra/github-readme-stats) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=moazzemhossainnahid)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=moazzemhossainnahid&show_icons=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=moazzemhossainnahid&show_icons=true&count_private=true) ![GitHub metrics](https://metrics.lecoq.io/moazzemhossainnahid)
 
-![GitHub metrics](https://metrics.lecoq.io/moazzemhossainnahid)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=moazzemhossainnahid)
 
 <br/> <br/>
 
