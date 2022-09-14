@@ -74,11 +74,9 @@ Contact Me at: moazzemhossainnahid@gmail.com
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/moazzemhossainnahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syeda tamanna sheme" height="30" width="44" /></a>
-<a href="https://facebook.com/moazzemhossainnahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tamannasheme" height="30" width="40" /></a>
-<a href="https://www.behance.net/moazzemhossainnahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="syeda tamanna sheme" height="30" width="40" /></a>
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/moazzemhossainnahid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/moazzemhossainnahid/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MoazzemNahid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/moazzemhossainnahid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/moazzemhossainnahid/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/moazzem-nahid)  [<img src='https://i.pinimg.com/originals/64/a8/43/64a843dccd6224aff90dae50eb144d71.png' alt='website' height='40'>](https://developer-nahid.web.app/)  
-
+<a href="https://linkedin.com/in/moazzemhossainnahid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="MD. NAHID" height="30" width="44" /></a>
+<a href="https://facebook.com/moazzemhossainnahid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="MD. NAHID" height="30" width="40" /></a>
+<a href="https://www.behance.net/moazzemhossainnahid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="MD. NAHID" height="30" width="40" /></a>
 </p>
 
 <br>
