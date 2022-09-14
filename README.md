@@ -63,6 +63,14 @@ Contact Me at: moazzemhossainnahid@gmail.com
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moazzemhossainnahid)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=moazzemhossainnahid&show_icons=true&count_private=true)
+
+![GitHub metrics](https://metrics.lecoq.io/moazzemhossainnahid)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=moazzemhossainnahid)
+
 <br/> <br/>
 
 <h3 align="center">Connect with me:</h3>
