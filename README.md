@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/github/followers/itsproali" alt="itsproali" /> 
 </p><br>
 
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&vCenter=true&height=60&lines=A+Front+-+End+Developer;A+React+JS+Developer;A+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&vCenter=true&height=60&lines=A+Front+-+End+Developer;A+React+JS+Developer;A+Web+Developer)](https://git.io/typing-svg)
 
  
 <h1 align="center">Hi There<a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="40px" ></a> , I'm MD. NAHID </h1>
