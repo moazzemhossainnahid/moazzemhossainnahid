@@ -35,7 +35,7 @@ Contact Me at: moazzemhossainnahid@gmail.com
 - ⚡️ I am capable to solve working problems.
 - 💫 Passionate about learning & development to reach the target.
 - 🔥 Eager to tackle more complex problems and continue to find ways to maximize user efficiency.
-- 🚀 My next mission is how to become a Mern-stack Developer.
+- 🚀 My next mission is how to become a Mern-Stack Developer.
 - 💥 I would love to build some Giant Website which will shine myself.
 - 📫  How to reach me: https://developer-nahid.web.app.
 - ⚡ Fun fact **I Think i'm funny too :)**
@@ -43,8 +43,8 @@ Contact Me at: moazzemhossainnahid@gmail.com
 #### :muscle: Things I am challenging myself with:
 
 - Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Exercising 3 days a week
+- Coding at least 6 hours a day
+- Exercising 5 days a week
 - Improving my CV with some education apart from university
 
 <br />
@@ -80,7 +80,7 @@ Contact Me at: moazzemhossainnahid@gmail.com
  <a href="https://stackoverflow.com/users/13824423/moazzem-nahid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="MD. NAHID" height="30" width="40" /></a>
  <a href="https://www.instagram.com/moazzemhossainnahid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="MD. NAHID" height="30" width="40" /></a>
  <a href="https://www.github.com/moazzemhossainnahid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="MD. NAHID" height="30" width="40" /></a>
- <a href="https://www.developer-nahid.web.app" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/44/44386.png" alt="MD. NAHID" height="30" width="40" /></a>
+ <a href="https://www.developer-nahid.web.app" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/44/44386.png" alt="MD. NAHID" height="30" width="30" /></a>
 </p>
 
 <br>
