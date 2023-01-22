@@ -7,7 +7,7 @@
       
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=35&vCenter=true&height=60&lines=A+Front+-+End+Developer;A+React+JS+Developer;A+Mern+-+Stack+Developer)](https://git.io/typing-svg)
 
- 
+    
 <h1 align="center">Hi There<a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="40px" ></a> , I'm MD. NAHID </h1>
 
 <h3 align="center"> Software Engineer || Web Developer</h3>
