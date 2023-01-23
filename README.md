@@ -16,7 +16,7 @@
   
   
 
-In the early stage, I started my career as a Marketing Officer and then rapidly moved into Web Design & Development.
+In the early stage, I started my career as a Marketing Officer and then rapidly moved into Web Design & Development.   
 
 I Have Completed Web Design Course from Robi 10 Minute School.
 Currently Completed Web Development Course From Programming Hero as Front-End Web Developer. And won a reward (SCIC selection) from the Programming Hero for my Better Performance.
