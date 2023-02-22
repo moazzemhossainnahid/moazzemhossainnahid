@@ -7,6 +7,11 @@
       
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=35&vCenter=true&height=60&lines=A+Front+-+End+Developer;A+React+JS+Developer;A+Mern+-+Stack+Developer)](https://git.io/typing-svg)
 
+<!-- <img align='right' src='https://algorithm.show/namecard.png' width='555'> -->
+<a href="https://goog.tech"><img align='right' src='https://media.giphy.com/media/d1DVd87uM1xJip8gUv/giphy.gif' width='280'></a>
+<!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250"'> -->
+<!--<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">-->
+
     
 <h1 align="center">Hi There<a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="40px" ></a> , I'm MD. NAHID </h1>
 
