@@ -6,7 +6,7 @@
 </p><br>
       
 
-<a align='left' href="https://developer-nahid.web.app/">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=35&vCenter=true&height=60&lines=A+Front+-+End+Developer;A+React+JS+Developer;A+Mern+-+Stack+Developer)](https://git.io/typing-svg)</a>
+<a align='left' href="https://developer-nahid.web.app/">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=35&vCenter=true&height=60&lines=A+Front+-+End+Developer;A+React+JS+Developer;A+Mern+-+Stack+Developer)](https://git.io/typing-svg)</a>   
 
 <a align='right' href="https://developer-nahid.web.app/"><img align='right' src='https://media.giphy.com/media/d1DVd87uM1xJip8gUv/giphy.gif' width='280'></a>
 <!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250"'> -->
