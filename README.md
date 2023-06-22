@@ -59,7 +59,7 @@ Contact Me at: moazzemhossainnahid@gmail.com
 - Waking up earlier to make good use of the day
 - Coding at least 6 hours a day
 - Exercising 5 days a week
-- Improving my CV with some education apart from university
+- Improving my CV with some education apart from university    
 
 <br />
 
