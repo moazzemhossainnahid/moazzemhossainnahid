@@ -2,7 +2,7 @@
                                     
  <p align="left">          
 <img src="https://komarev.com/ghpvc/?username=itsproali&label=Profile%20views&color=0e75b6&style=flat" alt="itsproali" />
-<img src="https://img.shields.io/github/followers/itsproali" alt="itsproali" />              
+<img src="https://img.shields.io/github/followers/itsproali" alt="itsproali" />
 </p><br>
                            
 
