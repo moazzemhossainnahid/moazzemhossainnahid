@@ -28,7 +28,7 @@
 <br />
 <br />
   
-  
+
 
 In the early stage, I started my career as a Marketing Officer and then rapidly moved into Web Design & Development.           
 
