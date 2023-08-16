@@ -19,7 +19,7 @@
 <br />
 <br />
 <br />
-<br />   
+<br />
 
     
 <h1 align="center">Hi There<a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="40px" ></a> , I'm MD. NAHID </h1>
