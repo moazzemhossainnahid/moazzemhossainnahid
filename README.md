@@ -30,13 +30,13 @@
   
 
 
-In the early stage, I started my career as a Marketing Officer and then rapidly moved into Web Design & Development.    
+In the early stage, I started my career as a Marketing Officer and then rapidly moved into Web Design and Development.    
 
-I Have Completed Web Design Course from Robi 10 Minute School.
-Currently Completed Web Development Course From Programming Hero as Front-End Web Developer. And won a reward (SCIC selection) from the Programming Hero for my Better Performance.
+I Have Completed a Web Design Course from Robi 10 Minute School.
+Currently Completed a Web Development Course From Programming Hero as a Front-End Web Developer. And won a reward (SCIC selection) from the Programming Hero for my Better Performance.
 
-I enjoy when completed a project and I work hard to reach the destination. I love team leading, project management, problem-solving, and of course strategic decision-making! I'm a big fan of taking ownership and exploring technical and business challenges to achieve the best output.
-I consider myself As a fully dedicated, dynamic, punctual, efficient, quick responder, and also very convivial.
+I enjoy it when complete a project and I work hard to reach the destination. I love team leading, project management, problem-solving, and of course strategic decision-making! I'm a big fan of taking ownership and exploring technical and business challenges to achieve the best output.
+I consider myself a fully dedicated, dynamic, punctual, efficient, quick responder, and also very convivial.
 
 Contact Me at: moazzemhossainnahid@gmail.com
 
@@ -45,14 +45,14 @@ Contact Me at: moazzemhossainnahid@gmail.com
 ## 👓 Here's some fun facts about me:
 
 - ✨ Front-End Developer With 1.5 years + Front End User Interfaces.
-- 🔭 I’m currently working on [Knowledge Dot](https://knowledgedot7.web.app/)
-- ⚡️ I am capable to solve working problems.
+- 🔭 I’m currently working on [Digital Marketing Institute](https://www.dminstitutebd.com/)
+- ⚡️ I am capable of solving working problems.
 - 💫 Passionate about learning & development to reach the target.
 - 🔥 Eager to tackle more complex problems and continue to find ways to maximize user efficiency.
-- 🚀 My next mission is how to become a Mern-Stack Developer.
-- 💥 I would love to build some Giant Website which will shine myself.
+- 🚀 My next mission is to become a Mern-Stack Developer.
+- 💥 I would love to build a Giant Website that will shine myself.
 - 📫  How to reach me: https://developer-nahid.web.app.
-- ⚡ Fun fact **I Think i'm funny too :)**
+- ⚡ Fun fact **I Think I'm funny too :)**
 
 #### :muscle: Things I am challenging myself with:
 
