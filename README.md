@@ -4,7 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=itsproali&label=Profile%20views&color=0e75b6&style=flat" alt="itsproali" />
 <img src="https://img.shields.io/github/followers/itsproali" alt="itsproali" />
 </p><br>
-                        
+                         
 
 <a align='left' href="https://developer-nahid.web.app/">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=35&vCenter=true&height=60&lines=A+Front+-+End+Developer;A+React+JS+Developer;A+Mern+-+Stack+Developer)](https://git.io/typing-svg)</a>
 
