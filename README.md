@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/m850B26/1655716976108.jpg" alt="" /> </a > <p align="center">
+<img src="https://i.ibb.co/m850B26/1655716976108.jpg" alt="" /> </a > <p align="center"> 
 
  <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=itsproali&label=Profile%20views&color=0e75b6&style=flat" alt="itsproali" />
