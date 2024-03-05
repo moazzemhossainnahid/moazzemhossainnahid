@@ -44,7 +44,7 @@ Contact Me at: moazzemhossainnahid@gmail.com
 
 ## 👓 Here's some fun facts about me:
 
-- ✨ Front-End Developer With 1.5 years + Front End User Interfaces.
+- ✨ Front-End Developer With 3 Years + Front End User Interfaces.
 - 🔭 I’m currently working on [Digital Marketing Institute](https://www.dminstitutebd.com/)
 - ⚡️ I am capable of solving working problems.
 - 💫 Passionate about learning & development to reach the target.
