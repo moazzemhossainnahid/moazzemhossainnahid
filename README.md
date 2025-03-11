@@ -32,6 +32,7 @@
 
 I'm a Full-Stack Developer specializing in the MERN stack (MongoDB, Express.js, React.js, and Node.js). With a strong focus on building scalable, high-performance web applications, I seamlessly integrate intuitive front-end designs with robust back-end functionality.
 <br />
+<br />
 🔹 Passionate about user experience, performance, and scalability <br />
 🔹 Strong advocate for clean code, best practices, and maintainable architectures <br />
 🔹 Thrive in problem-solving, innovation, and technical challenges <br />
