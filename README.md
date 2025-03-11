@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/m850B26/1655716976108.jpg" alt="" /> </a > <p align="center"> 
+<img src="https://res.cloudinary.com/dsigyjfjq/image/upload/fl_preserve_transparency/v1741697310/portfolio_developernahid.rf.gd_cbh6gi.jpg" alt="developer_nahid" /> </a > <p align="center"> 
      
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=itsproali&label=Profile%20views&color=0e75b6&style=flat" alt="itsproali" />
@@ -30,13 +30,16 @@
   
 
 
-In the early stage, I started my career as a Marketing Officer and then rapidly moved into Web Design and Development.    
+I'm a Full-Stack Developer specializing in the MERN stack (MongoDB, Express.js, React.js, and Node.js). With a strong focus on building scalable, high-performance web applications, I seamlessly integrate intuitive front-end designs with robust back-end functionality.
 
-I Have Completed a Web Design Course from Robi 10 Minute School.
-Currently Completed a Web Development Course From Programming Hero as a Front-End Web Developer. And won a reward (SCIC selection) from the Programming Hero for my Better Performance.
+🔹 Passionate about user experience, performance, and scalability
+🔹 Strong advocate for clean code, best practices, and maintainable architectures
+🔹 Thrive in problem-solving, innovation, and technical challenges
+🔹 Dedicated to delivering impactful and efficient solutions
 
-I enjoy it when complete a project and I work hard to reach the destination. I love team leading, project management, problem-solving, and of course strategic decision-making! I'm a big fan of taking ownership and exploring technical and business challenges to achieve the best output.
-I consider myself a fully dedicated, dynamic, punctual, efficient, quick responder, and also very convivial.
+I enjoy taking ownership of projects, exploring both technical and business challenges, and continuously improving solutions to meet user needs. Always eager to learn, adapt, and collaborate, I strive to create applications that are not only functional but also memorable and meaningful.
+
+Let's connect and build something amazing! 🚀
 
 Contact Me at: moazzemhossainnahid@gmail.com
 
@@ -44,20 +47,20 @@ Contact Me at: moazzemhossainnahid@gmail.com
 
 ## 👓 Here's some fun facts about me:
 
-- ✨ Front-End Developer With 3 Years + Front End User Interfaces.
-- 🔭 I’m currently working on [Thanda Mart](https://thandamart.vercel.app/)
-- ⚡️ I am capable of solving working problems.
-- 💫 Passionate about learning & development to reach the target.
-- 🔥 Eager to tackle more complex problems and continue to find ways to maximize user efficiency.
-- 🚀 My next mission is to become a Mern-Stack Developer.
-- 💥 I would love to build a Giant Website that will shine myself.
+- ✨ Full-Stack Developer with 4+ years of experience in building intuitive and dynamic user interfaces.
+- 🔭 I’m currently working on [Druckland](https://frontend-new.druckland.de/)
+- ⚡️ Passionate about solving complex technical challenges and optimizing performance.
+- 💫 Always eager to learn, adapt, and push boundaries to achieve high-quality solutions.
+- 🔥 Enthusiastic about creating scalable and efficient full-stack applications.
+- 🚀 My next mission is to master system architecture and cloud technologies.
+- 💥 I aspire to build a large-scale, impactful web platform that showcases my expertise.
 - 📫  How to reach me: https://developer-nahid.web.app.
 - ⚡ Fun fact **I Think I'm funny too :)**
 
 #### :muscle: Things I am challenging myself with:
 
 - Waking up earlier to make good use of the day
-- Coding at least 6 hours a day
+- Coding at least 8 hours a day
 - Exercising 5 days a week
 - Improving my CV with some education apart from university    
 
