@@ -49,7 +49,7 @@ Contact Me at: moazzemhossainnahid@gmail.com
 ## 👓 Here's some fun facts about me:
 
 - ✨ Full-Stack Developer with 4+ years of experience in building intuitive and dynamic user interfaces.
-- 🔭 I’m currently working on [Druckland](https://frontend-new.druckland.de/)
+- 🔭 I’m currently working on [Duare](https://duare.net/)
 - ⚡️ Passionate about solving complex technical challenges and optimizing performance.
 - 💫 Always eager to learn, adapt, and push boundaries to achieve high-quality solutions.
 - 🔥 Enthusiastic about creating scalable and efficient full-stack applications.
